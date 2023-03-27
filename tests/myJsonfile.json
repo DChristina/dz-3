@@ -4,11 +4,11 @@
   "paymentSystem": [
     "government",
     100000
-    ],
+  ],
   "phoneNumbers": [
     "111-222-3334",
     "112-223-4445"
-    ],
+  ],
   "address": {
     "streetAddress": "New avenu 23",
     "city": "Istambul",
